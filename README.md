@@ -1,4 +1,6 @@
-# Milestone P3, ADA 2020 Project, P-ADA-wan
+# ADA 2020 Project, P-ADA-wan
+
+EPFL Fall 2020 CS-401 Applied Data Analysis Project, where we explored the Tesco Dataset.
 
 ## Data story
 
